@@ -3,14 +3,17 @@
 <!--
 **Mathchi/Mathchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+Experienced Doctor of Philosophy - Ph.D. with a demonstrated history of working in the higher education industry. 
+Skilled in 
+- 🔭 Python, 
+- 🌱 Data Science, 
+- 👯 Artificial Intelligence(AI), 
+- 💬 Deep Learning, 
+- 📫 Big Data, 
+- 🤔 Mathematics, 
+- 😄 Research, 
+- ⚡ Teaching, 
+and Higher Education. 
+
+Involved in Data Science projects from various disciplines such as predictive maintenance, autonomous drive, churn prediction, risk analysis and credit scoring and marketing analytics, NLP, recommender systems. Skilled in programming with Python. And also contributed to the scientific knowledge with nine journal papers, and numerous conference papers.
