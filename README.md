@@ -17,3 +17,10 @@ Skilled in
 and Higher Education. 
 
 Involved in Data Science projects from various disciplines such as predictive maintenance, autonomous drive, churn prediction, risk analysis and credit scoring and marketing analytics, NLP, recommender systems. Skilled in programming with Python. And also contributed to the scientific knowledge with nine journal papers, and numerous conference papers.
+
+
+My Contacts:
+- https://www.linkedin.com/in/mathchi/
+- https://mathchi.medium.com/
+- https://www.kaggle.com/mathchi
+- https://www.hackerrank.com/__MA__?hr_r=1
