@@ -23,4 +23,4 @@ My Contacts:
 - https://www.linkedin.com/in/mathchi/
 - https://mathchi.medium.com/
 - https://www.kaggle.com/mathchi
-- https://www.hackerrank.com/__MA__?hr_r=1
+- https://www.hackerrank.com/Mathchi
