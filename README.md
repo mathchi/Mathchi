@@ -7,6 +7,7 @@
 Experienced Doctor of Philosophy - Ph.D. with a demonstrated history of working in the higher education industry. 
 Skilled in 
 - 🔭 Python, 
+- ⚙️ Data Engineer,
 - 🌱 Data Science, 
 - 👯 Artificial Intelligence(AI), 
 - 💬 Deep Learning, 
